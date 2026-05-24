@@ -1,0 +1,6 @@
+{
+  "name": "Sixsigma AI - Engineering LMS",
+  "description": "Premium Engineering PG Programmes & Operational Excellence LMS with interactive Student Dashboard, Course Player, Checkout, and Placement Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
